@@ -37,3 +37,8 @@
 </div>
 
 ###
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects, learning new technologies, and contributing to open-source. Feel free to reach out if you'd like to work together or just want to chat about tech!
+
+###
