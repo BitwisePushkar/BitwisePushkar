@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pushkar Singhal and I'm a Aspiring Java Full Stack Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Pushkar Singhal and I'm a Aspiring Java and Python Full Stack Developer, from India</h2>
 
 ###
 
@@ -21,10 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
 
 ###
