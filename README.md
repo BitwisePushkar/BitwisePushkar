@@ -9,7 +9,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Pushkar+Singhal+%F0%9F%91%8B;Aspiring+Java+Developer;Aspiring+Python+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Pushkar+Singhal+%F0%9F%91%8B;Aspiring+Python+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
 
   <a href="https://www.linkedin.com/in/pushkar-singhal-129835325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pusinghal010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
